@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1494993321 source:c:\users\renan\desktop\edii\estructurasmixtas\archivo.cpp
+	"archivo.h"
+
+1494993323 c:\users\renan\desktop\edii\estructurasmixtas\archivo.h
+	<stdio.h>
+	<iostream>
+
+1495001393 source:c:\users\renan\desktop\edii\estructurasmixtas\main.cpp
+	<iostream>
+	"misc.h"
+
+1494996848 c:\users\renan\desktop\edii\estructurasmixtas\misc.h
+	"Personas.h"
+	"Archivo.h"
+	<list>
+	<string.h>
+
+1494995286 c:\users\renan\desktop\edii\estructurasmixtas\personas.h
+
+1495001364 source:c:\users\renan\desktop\edii\estructurasmixtas\misc.cpp
+	"misc.h"
+
+1494995281 source:c:\users\renan\desktop\edii\estructurasmixtas\personas.cpp
+	"Personas.h"
+
